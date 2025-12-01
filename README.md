@@ -89,3 +89,5 @@ cv2.destroyAllWindows()
 -   `(x, y)` are in world units
 -   `θ` is in radians, normalized to `[-π, π]`
 
+<img width="800" height="800" alt="robot" src="https://github.com/user-attachments/assets/4b71c5d6-022a-460e-a41d-5d00316d3b4a" />
+
