@@ -91,3 +91,15 @@ cv2.destroyAllWindows()
 
 <img width="800" height="800" alt="robot" src="https://github.com/user-attachments/assets/4b71c5d6-022a-460e-a41d-5d00316d3b4a" />
 
+## Use Cases
+
+This simulator can be used for:
+
+- **Testing controllers** (PID, geometric, RL-based)
+- **Trajectory tracking** and waypoint following
+- **Debugging differential-drive kinematics**
+- **Prototyping navigation algorithms** before using real robots
+- **Visualizing robot motion** for demos or teaching
+- **Experimenting with RL policies** in a simple environment
+
+
